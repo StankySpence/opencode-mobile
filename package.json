@@ -70,7 +70,7 @@
     "@opencode-ai/plugin": "^1.1.12",
     "cloudflared": "^0.1.1",
     "cloudflared-tunnel": "^1.0.3",
-    "expo": "^54.0.31",
+    "expo": "^58.0.23",
     "jsonc-parser": "^3.3.1",
     "localtunnel": "^1.8.3",
     "ngrok": "^5.0.0-beta.2",
@@ -84,7 +84,7 @@
     "@types/qrcode-terminal": "^0.12.2",
     "@vitest/ui": "^4.0.17",
     "typescript": "^5.8.2",
-    "vitest": "^4.0.17"
+    "vitest": "^5.1.0"
   },
   "scripts": {
     "build": "tsc",
